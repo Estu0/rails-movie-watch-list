@@ -10,27 +10,27 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/Estu0/rails-movie-watch-list/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Estu0/rails-movie-watch-list" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Estu0/rails-movie-watch-list" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/Estu0/rails-movie-watch-list/network/members">
+    <img src="https://img.shields.io/github/forks/Estu0/rails-movie-watch-list" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/Estu0/rails-movie-watch-list/stargazers">
+    <img src="https://img.shields.io/github/stars/Estu0/rails-movie-watch-list" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/Estu0/rails-movie-watch-list/issues/">
+    <img src="https://img.shields.io/github/issues/Estu0/rails-movie-watch-list" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/Estu0/rails-movie-watch-list/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Estu0/rails-movie-watch-list.svg" alt="license" />
   </a>
 </p>
    
-<h4>
+<!-- <h4>
     <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
@@ -38,10 +38,10 @@
     <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
-  </h4>
+  </h4> -->
 </div>
 
-<br />
+<!-- <br /> -->
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
@@ -71,11 +71,11 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
+The app allows to create category lists in which favorite movies can be saved.
 
 <!-- Screenshots -->
 ### :camera: Screenshots
-
+<img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672170864/Miscellaneous/Movie-Watch-List/homepage-watchlist_h6eibs.png" alt="logo" width="200" height="auto" />
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>
