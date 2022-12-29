@@ -51,7 +51,6 @@
   * [Tech Stack](#space_invader-tech-stack)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
 - [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
@@ -107,6 +106,8 @@ The app allows to create category lists in which favorite movies can be saved.
   </ul>
 </details>
 
+## 	:toolbox: Getting Started
+
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
@@ -148,8 +149,7 @@ Install dependencies
 <!-- Usage -->
 ## :eyes: Usage
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources
-
+This app enables you to create & delete lists of movie categories. Once a list is created movies can be added to it.
 
 <!-- Contributing -->
 ## :wave: Contributing
@@ -159,15 +159,16 @@ Use this space to tell a little more about your project and how it can be used. 
 </a>
 
 
-Contributions are always welcome!
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-See `contributing.md` for ways to get started.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Estu0/rails-movie-watch-list/blob/master/CODE_OF_CONDUCT.md)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
