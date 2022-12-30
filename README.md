@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672022479/Miscellaneous/cinema-room_ohqayi.png" alt="logo" width="200" height="auto" />
+  <img src="https://res.cloudinary.com/dwvrcwjwc/image/upload/v1672022479/Miscellaneous/cinema-room_ohqayi.png" alt="logo" width="400" height="auto" />
   <h1>Movie Watch List</h1>
   
   <p>
